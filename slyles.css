@@ -16,11 +16,7 @@ nav{
     margin:0;
     border-bottom:2px solid black;
     -webkit-box-shadow: 0px 0px 11px 4px rgba(0,0,0,0.24); 
-    box-shadow: 0px 0px 11px 4px rgba(0,0,0,0.24);
-
-
-    
-    
+    box-shadow: 0px 0px 11px 4px rgba(0,0,0,0.24); 
 
 }
 
@@ -109,12 +105,12 @@ a:hover {
  }
  
 .bouton.primaire{
-    background: #8005F2;
+    background: #000000;
     color: white;
  }
  
 .bouton.primaire:hover{
-    background: #c38ff5;
+    background: #50d5da;
  }
 
 p{
